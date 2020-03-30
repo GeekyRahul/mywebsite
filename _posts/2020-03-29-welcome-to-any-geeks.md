@@ -4,8 +4,6 @@ title:  "Welcome To Anygeeks"
 author: rv
 categories: [ Jekyll, tutorial ]
 image: assets/images/landscape.jpg
-featured: true
-hidden: true
 ---
 
 Hello World ! 
