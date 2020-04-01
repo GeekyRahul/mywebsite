@@ -21,7 +21,6 @@ exports.handler = async (event) => {
       return {
         statusCode: 200,
         body: `Submitted Successfully`,
-        console.log('Success')
       }
     }
     console.log('Conditions not met, not submitting')
